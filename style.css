@@ -156,6 +156,7 @@ section #limpar {
     margin-bottom: 20px;
 }
 
+/* A parte mediaquery */
 
 @media only screen and (max-width: 768px) {
     :root {
